@@ -11,3 +11,8 @@ Certain assumptions were made about the data.
 * For attacks with an unknown number of fatalities I assume no one died.
 
 This means that these visuals should be treated as lower bounds on the actual numbers.
+
+## Deaths by type of attack
+On the chart below we see timeseries of fatalities split by type of `attack` for the entire ten year period of the data. Note how there is a surge in deaths around and after `2014`.
+
+![image](https://github.com/besiobu/data-science-portfolio/blob/master/global-terrorism/img/deaths_by_attack_over_time.png)
