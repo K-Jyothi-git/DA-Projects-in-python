@@ -21,3 +21,8 @@ On the chart below we see timeseries of fatalities split by type of `attack` for
 The second plot in the gallery shows the number of attacks by weapon type and region. As can be seen `explosives` a by far the most popular weapon type. Also note that categories `fake weapons`, `biological` and `radiological` have been left out of the plot due to the scarcity of such attacks.
 
 ![image](https://github.com/besiobu/data-science-portfolio/blob/master/global-terrorism/img/attacks_by_weapon.png)
+
+## Number of attacks by weapon
+The second plot in the gallery shows the number of attacks by weapon type and region. As can be seen `explosives` a by far the most popular weapon type. Also note that categories `fake weapons`, `biological` and `radiological` have been left out of the plot due to the scarcity of such attacks.
+
+![image](https://github.com/besiobu/data-science-portfolio/blob/master/global-terrorism/img/attacks_by_weapon.png)
