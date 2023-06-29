@@ -12,3 +12,12 @@ The goal of these projects is to extract meaningful insights from datasets using
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
+
+## 📂 Project Structure
+
+Data-Analytics-Projects-in-python/
+│
+├── data/ # Dataset files
+├── notebooks/ # Jupyter notebooks for analysis
+├── scripts/ # Python scripts
+└── README.md # Project documentation
