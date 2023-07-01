@@ -21,3 +21,10 @@ Data-Analytics-Projects-in-python/
 ├── notebooks/ # Jupyter notebooks for analysis
 ├── scripts/ # Python scripts
 └── README.md # Project documentation
+
+## 🔍 Project Workflow
+1. Data Collection
+2. Data Cleaning and Preprocessing
+3. Exploratory Data Analysis (EDA)
+4. Data Visualization
+5. Insights and Conclusion
