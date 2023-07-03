@@ -28,3 +28,9 @@ Data-Analytics-Projects-in-python/
 3. Exploratory Data Analysis (EDA)
 4. Data Visualization
 5. Insights and Conclusion
+
+## 📊 Key Features
+- Data preprocessing using **Pandas**
+- Exploratory Data Analysis
+- Data visualization using **Matplotlib & Seaborn**
+- Insight generation from real-world datasets
