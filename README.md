@@ -34,3 +34,21 @@ Data-Analytics-Projects-in-python/
 - Exploratory Data Analysis
 - Data visualization using **Matplotlib & Seaborn**
 - Insight generation from real-world datasets
+
+## 🚀 How to Run the Project
+1. Clone the repository
+
+git clone https://github.com/K-Jyothi-git/DA-Projects-in-python.git
+
+
+2. Navigate to the project folder
+
+cd Data-Analytics-Projects-in-python
+
+
+3. Install required libraries
+
+pip install pandas numpy matplotlib seaborn
+
+
+4. Run the Jupyter Notebook or Python scripts.
