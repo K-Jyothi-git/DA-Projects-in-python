@@ -52,3 +52,12 @@ pip install pandas numpy matplotlib seaborn
 
 
 4. Run the Jupyter Notebook or Python scripts.
+
+## 📈 Future Improvements
+- Add more datasets for analysis
+- Implement machine learning models
+- Build interactive dashboards
+
+## 👩‍💻 Author
+**Jyothi Kalakoti**  
+Data Analyst | Python | SQL | Power BI | Tableau
