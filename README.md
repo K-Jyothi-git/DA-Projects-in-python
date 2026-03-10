@@ -43,7 +43,7 @@ git clone https://github.com/K-Jyothi-git/DA-Projects-in-python.git
 
 2. Navigate to the project folder
 
-cd Data-Analytics-Projects-in-pytho
+cd Data-Analytics-Projects-in-python
 
 
 3. Install required libraries
